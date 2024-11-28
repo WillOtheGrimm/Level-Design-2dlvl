@@ -7,10 +7,10 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/LDP/Main.unity
-    guid: 00000000000000000000000000000000
+    guid: 04df639421d16fd44beae7ee2b6275c2
   - enabled: 1
-    path: Assets/LDP/Template Level.unity
-    guid: 00000000000000000000000000000000
+    path: Assets/LDP/content/Scenes/Ayman-02.unity
+    guid: 8dc7c30fa4565d04f97c4cf94fa4cc2c
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 3b7a3995f6b70124d97615871329bb38,
       type: 2}
